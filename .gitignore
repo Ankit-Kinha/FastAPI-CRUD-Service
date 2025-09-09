@@ -1,0 +1,29 @@
+# Ignore everything
+*
+
+# Exempt these files/folders
+!crud
+!README.md
+!requirements.txt
+!Dockerfile
+!.env.example
+!.gitignore
+!.dockerignore
+!pytest.ini
+!Makefile
+!docker-compose.yml
+!docker-compose.override.yml
+!alembic.ini
+!alembic/
+!scripts/
+!docs/
+!app/
+!tests/
+!.github/
+!app/**
+!alembic/**
+!scripts/**
+!docs/**
+!app/**
+!tests/**
+!.github/**
